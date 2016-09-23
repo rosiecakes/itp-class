@@ -1,6 +1,6 @@
 # Introduction
 
-Getting into the good stuff - strings, dicts, expressions, oh my. 
+Getting into the good stuff - strings, ints, floats, oh my. 
 
 ## Reading material
 
