@@ -1,6 +1,6 @@
 # Introduction
 
-This platform is the main tool we'll use during the course. In it you'll find the source for readings and individual coding assignments to work on.
+In this lesson we will be going over so Python basics. 
 
 ## Reading material
 
