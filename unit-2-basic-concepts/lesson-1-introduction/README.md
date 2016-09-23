@@ -1,6 +1,6 @@
 # Introduction
 
-In this lesson we will be going over so Python basics. 
+In this lesson we will be going over some Python basics. 
 
 ## Reading material
 
