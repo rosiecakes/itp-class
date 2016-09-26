@@ -1,3 +1,3 @@
-def sum_using_sum(a, b):
+def sum_of_two_numbers(a, b):
     return sum([a, b])
 
