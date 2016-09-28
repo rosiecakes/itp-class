@@ -3,5 +3,3 @@ def even_or_odd(num):
         return 'even'
     elif num % 2 !=0:
         return 'odd'
-    else:
-        return 'number please!'

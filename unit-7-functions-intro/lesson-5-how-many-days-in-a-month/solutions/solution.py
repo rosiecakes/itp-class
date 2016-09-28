@@ -9,5 +9,3 @@ def how_many_days_in(month):
         return 30
     elif month in months_with_28:
         return 28
-    else:    
-        'I only work with [non-leap year] months'
