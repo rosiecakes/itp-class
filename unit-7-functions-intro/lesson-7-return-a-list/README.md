@@ -1,6 +1,6 @@
 # Return a list
 
-Write a function that takes in a number, then returns a list of even numbers that are less than the input number. 
+Write a function that takes in a number N, then returns a list of even numbers that are less than N. 
 
 Do not include 0, nor the input number. 
 
